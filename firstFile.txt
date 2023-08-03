@@ -2,8 +2,8 @@ line1 updated
 line2 updated
 line3 updated
 line4 updated
-line5
-line6
+line5  modified
+line6  modified
 line7
 line8
 line9
